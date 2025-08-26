@@ -1,6 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Hola,+soy+Willy+👋;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Hola,+soy+Willy+👋;Full+Stack+Developer;22+años+desde+México" alt="Typing SVG" />
 </div>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+🌎 **Ubicación**  
+México 🇲🇽
+
+📚 **Estudiando**  
+Desarrollo Web
+
+</td>
+<td align="center" width="50%">
+
+🎂 **Edad**  
+22 años
+
+🚀 **Enfoque**  
+Frontend & Backend
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,3 +68,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=willy002884&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
+
